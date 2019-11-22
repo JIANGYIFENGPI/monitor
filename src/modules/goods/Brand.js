@@ -2,6 +2,6 @@ import React from 'react'
 
 export default () => (
   <div>
-    List Contents
+    deviceid     statusstarttime     Statusendtime     devicestatus
   </div>
 )
